@@ -15,8 +15,10 @@
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: He/His or TeamWorker 😊
 - ⚡ Fun fact: I Always try to learn something new and then sleep till it store in the brain 😎
-
-
+- - 📫 How to find me: 
+  - :pencil2: [GitHub](https://github.com/Tahreen543/Tahreen543.git/)
+  - :office: [LinkedIn](https://www.linkedin.com/in/tahura-azeez-766034237/)
+  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
