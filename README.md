@@ -1,6 +1,18 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
- <h1>
+ 
+ <div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+  <h1>
  # Hello! I am Tahura-Azeez
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -15,10 +27,8 @@
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: He/His or TeamWorker 😊
 - ⚡ Fun fact: I Always try to learn something new and then sleep till it store in the brain 😎
-- - 📫 How to find me: 
-  - :pencil2: [GitHub](https://github.com/Tahreen543/Tahreen543.git/)
-  - :office: [LinkedIn](https://www.linkedin.com/in/tahura-azeez-766034237/)
-  
+- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/tahura-azeez-766034237)
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
