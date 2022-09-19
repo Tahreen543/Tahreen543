@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning Data Science and ML
 - 👯 I’m looking to collaborate with any Open - Source data science projects
 - 🤔 I’m looking for help with ...
-- 😄 Pronouns: He/His or TeamWorker 😊
+- 😄 Pronouns: She/Her or TeamWorker 😊
 - ⚡ Fun fact: I Always try to learn something new and then sleep till it store in the brain 😎
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tahura-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/tahura-azeez-766034237)
 ### :hammer_and_wrench: Languages and Tools :
