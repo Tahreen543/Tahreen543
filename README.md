@@ -22,7 +22,7 @@
 ### :woman_technologist: About Me :
 
 - :zap: I love math, programming, data science, and books
-- 🌱 I’m currently learning Data Science and ML
+- 🌱 I’m currently learning Data Science and ML,Python,MySql,Tableau
 - 👯 I’m looking to collaborate with any Open - Source data science projects
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: She/Her or TeamWorker 😊
